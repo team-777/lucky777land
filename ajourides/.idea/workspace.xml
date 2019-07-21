@@ -2,10 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c95f332b-3c99-4533-b045-46e52fc9e6e5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ac/kr/ajou/MainApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ac/kr/ajou/MainApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ac/kr/ajou/domain/MerryGoRoundInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ac/kr/ajou/domain/MerryGoRoundInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ac/kr/ajou/domain/PeopleForEachRides.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ac/kr/ajou/domain/PeopleForEachRides.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ac/kr/ajou/domain/PersonInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ac/kr/ajou/domain/PersonInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ac/kr/ajou/domain/PirateShipInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ac/kr/ajou/domain/PirateShipInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ac/kr/ajou/domain/ZyroDropInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ac/kr/ajou/domain/ZyroDropInfo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ac/kr/ajou/entrance/CreatePeople.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ac/kr/ajou/entrance/CreatePeople.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ac/kr/ajou/middlework/GetPeopleInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ac/kr/ajou/middlework/GetPeopleInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ac/kr/ajou/middlework/PeopleIntoGroups.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ac/kr/ajou/middlework/PeopleIntoGroups.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ac/kr/ajou/rides/MerryGoRoundRides.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ac/kr/ajou/rides/MerryGoRoundRides.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ac/kr/ajou/rides/PirateShipRides.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ac/kr/ajou/rides/PirateShipRides.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ac/kr/ajou/rides/ZyroDropRides.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ac/kr/ajou/rides/ZyroDropRides.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ac/kr/ajou/rides/MerryGoRoundRidesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ac/kr/ajou/rides/MerryGoRoundRidesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ac/kr/ajou/rides/PirateShipRidesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ac/kr/ajou/rides/PirateShipRidesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ac/kr/ajou/rides/ZyroDropRidesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ac/kr/ajou/rides/ZyroDropRidesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ac/kr/ajou/MainApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ac/kr/ajou/MainApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ac/kr/ajou/domain/MerryGoRoundInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ac/kr/ajou/domain/MerryGoRoundInfo.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/ac/kr/ajou/entrance/CreatePeople.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ac/kr/ajou/entrance/CreatePeople.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ac/kr/ajou/middlework/GetPeopleInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ac/kr/ajou/middlework/GetPeopleInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ac/kr/ajou/middlework/PeopleIntoGroups.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ac/kr/ajou/middlework/PeopleIntoGroups.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ac/kr/ajou/rides/MerryGoRoundRides.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ac/kr/ajou/rides/MerryGoRoundRides.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ac/kr/ajou/rides/PirateShipRides.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ac/kr/ajou/rides/PirateShipRides.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ac/kr/ajou/rides/ZyroDropRides.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ac/kr/ajou/rides/ZyroDropRides.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ac/kr/ajou/rides/MerryGoRoundRidesTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ac/kr/ajou/rides/MerryGoRoundRidesTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ac/kr/ajou/rides/PirateShipRidesTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ac/kr/ajou/rides/PirateShipRidesTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ac/kr/ajou/rides/ZyroDropRidesTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ac/kr/ajou/rides/ZyroDropRidesTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -26,8 +52,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ac/kr/ajou/rides/MerryGoRoundRidesTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+            <state relative-caret-position="82">
+              <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -56,11 +82,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/ac/kr/ajou/rides/PirateShipRidesTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="209">
+              <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -68,11 +94,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ac/kr/ajou/rides/ZyroDropRidesTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="4" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+            <state relative-caret-position="152">
+              <caret line="8" column="42" lean-forward="true" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -83,8 +109,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ac/kr/ajou/rides/MerryGoRoundRides.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="21" column="55" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="55" />
+            <state relative-caret-position="57">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -92,7 +118,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ac/kr/ajou/rides/ZyroDropRides.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
+            <state relative-caret-position="-76">
               <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
             </state>
           </provider>
@@ -110,8 +136,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ac/kr/ajou/domain/MerryGoRoundInfo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+            <state relative-caret-position="38">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -146,7 +172,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/lucky777land.iml" />
-        <option value="$PROJECT_DIR$/src/main/java/ac/kr/ajou/domain/MerryGoRoundInfo.java" />
         <option value="$PROJECT_DIR$/src/main/java/ac/kr/ajou/domain/PeopleForEachRides.java" />
         <option value="$PROJECT_DIR$/src/main/java/ac/kr/ajou/domain/PersonInfo.java" />
         <option value="$PROJECT_DIR$/src/main/java/ac/kr/ajou/domain/PirateShipInfo.java" />
@@ -156,12 +181,13 @@
         <option value="$PROJECT_DIR$/src/main/java/ac/kr/ajou/middlework/PeopleIntoGroups.java" />
         <option value="$PROJECT_DIR$/src/main/java/ac/kr/ajou/rides/PirateShipRides.java" />
         <option value="$PROJECT_DIR$/src/main/java/ac/kr/ajou/rides/ZyroDropRides.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ac/kr/ajou/rides/MerryGoRoundRides.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/ac/kr/ajou/entrance/CreatePeople.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ac/kr/ajou/domain/MerryGoRoundInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ac/kr/ajou/rides/MerryGoRoundRides.java" />
         <option value="$PROJECT_DIR$/src/test/java/ac/kr/ajou/rides/MerryGoRoundRidesTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ac/kr/ajou/rides/PirateShipRidesTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/ac/kr/ajou/rides/ZyroDropRidesTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ac/kr/ajou/rides/PirateShipRidesTest.java" />
       </list>
     </option>
   </component>
@@ -296,6 +322,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -314,8 +341,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ZyroDropRidesTest.자이로드롭의_진행횟수가_1이상인지_Test">
-    <configuration name="MerryGoRoundRidesTest.startofrides_4이하_문제" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.MerryGoRoundRidesTest.회전목마의_진행횟수가_0이상인지_Test">
+    <configuration name="MerryGoRoundRidesTest.회전목마의_진행횟수가_0이상인지_Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ajourides" />
       <extension name="coverage">
         <pattern>
@@ -325,7 +352,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="ac.kr.ajou.rides" />
       <option name="MAIN_CLASS_NAME" value="ac.kr.ajou.rides.MerryGoRoundRidesTest" />
-      <option name="METHOD_NAME" value="startofrides_4이하_문제" />
+      <option name="METHOD_NAME" value="회전목마의_진행횟수가_0이상인지_Test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -347,7 +374,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PirateShipRidesTest.startofrides_4이하_문제" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ZyroDropRidesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ajourides" />
       <extension name="coverage">
         <pattern>
@@ -356,9 +383,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="ac.kr.ajou.rides" />
-      <option name="MAIN_CLASS_NAME" value="ac.kr.ajou.rides.PirateShipRidesTest" />
-      <option name="METHOD_NAME" value="startofrides_4이하_문제" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="ac.kr.ajou.rides.ZyroDropRidesTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -397,11 +423,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MerryGoRoundRidesTest.회전목마의_진행횟수가_0이상인지_Test" />
         <item itemvalue="JUnit.ZyroDropRidesTest.자이로드롭의_진행횟수가_1이상인지_Test" />
         <item itemvalue="JUnit.ZyroDropRidesTest.자이로드롭의_진행횟수가_4이하인지_Test" />
+        <item itemvalue="JUnit.ZyroDropRidesTest" />
         <item itemvalue="JUnit.PirateShipRidesTest.해적선의_진행횟수가_11미만인지_Test" />
-        <item itemvalue="JUnit.PirateShipRidesTest.startofrides_4이하_문제" />
-        <item itemvalue="JUnit.MerryGoRoundRidesTest.startofrides_4이하_문제" />
       </list>
     </recent_temporary>
   </component>
@@ -419,35 +445,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PirateShipRidesTest_해적선의_진행횟수가_11미만인지 - 2019.07.21 at 22h 42m 00s.xml">
-      <configuration name="PirateShipRidesTest.해적선의_진행횟수가_11미만인지" configurationId="JUnit" />
+    <history-entry file="ZyroDropRidesTest_자이로드롭의_진행횟수가_1이상인지_Test - 2019.07.21 at 22h 58m 57s.xml">
+      <configuration name="ZyroDropRidesTest.자이로드롭의_진행횟수가_1이상인지_Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MerryGoRoundRidesTest_startofrides_4이하_문제 - 2019.07.21 at 22h 42m 46s.xml">
-      <configuration name="MerryGoRoundRidesTest.startofrides_4이하_문제" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PirateShipRidesTest_해적선의_진행횟수가_11미만인지_Test - 2019.07.21 at 22h 44m 12s.xml">
-      <configuration name="PirateShipRidesTest.해적선의_진행횟수가_11미만인지_Test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MerryGoRoundRidesTest_startofrides_4이하_문제 - 2019.07.21 at 22h 44m 23s.xml">
-      <configuration name="MerryGoRoundRidesTest.startofrides_4이하_문제" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PirateShipRidesTest_해적선의_진행횟수가_11미만인지_Test - 2019.07.21 at 22h 44m 59s.xml">
-      <configuration name="PirateShipRidesTest.해적선의_진행횟수가_11미만인지_Test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PirateShipRidesTest_startofrides_4이하_문제 - 2019.07.21 at 22h 47m 40s.xml">
-      <configuration name="PirateShipRidesTest.startofrides_4이하_문제" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PirateShipRidesTest_startofrides_4이하_문제 - 2019.07.21 at 22h 47m 57s.xml">
-      <configuration name="PirateShipRidesTest.startofrides_4이하_문제" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PirateShipRidesTest_해적선의_진행횟수가_11미만인지_Test - 2019.07.21 at 22h 48m 19s.xml">
-      <configuration name="PirateShipRidesTest.해적선의_진행횟수가_11미만인지_Test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ZyroDropRidesTest_자이로드롭의_진행횟수가_4이하인지_Test - 2019.07.21 at 22h 51m 09s.xml">
+    <history-entry file="ZyroDropRidesTest_자이로드롭의_진행횟수가_4이하인지_Test - 2019.07.21 at 22h 59m 25s.xml">
       <configuration name="ZyroDropRidesTest.자이로드롭의_진행횟수가_4이하인지_Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ZyroDropRidesTest_자이로드롭의_진행횟수가_1이상인지_Test - 2019.07.21 at 22h 51m 13s.xml">
+    <history-entry file="ZyroDropRidesTest_자이로드롭의_진행횟수가_1이상인지_Test - 2019.07.21 at 22h 59m 38s.xml">
       <configuration name="ZyroDropRidesTest.자이로드롭의_진행횟수가_1이상인지_Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ZyroDropRidesTest_자이로드롭의_진행횟수가_1이상인지_Test - 2019.07.21 at 23h 00m 01s.xml">
+      <configuration name="ZyroDropRidesTest.자이로드롭의_진행횟수가_1이상인지_Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ZyroDropRidesTest_자이로드롭의_진행횟수가_1이상인지_Test - 2019.07.21 at 23h 00m 14s.xml">
+      <configuration name="ZyroDropRidesTest.자이로드롭의_진행횟수가_1이상인지_Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MerryGoRoundRidesTest_회전목마의_진행횟수가_0이상인지_Test - 2019.07.21 at 23h 00m 21s.xml">
+      <configuration name="MerryGoRoundRidesTest.회전목마의_진행횟수가_0이상인지_Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MerryGoRoundRidesTest_회전목마의_진행횟수가_0이상인지_Test - 2019.07.21 at 23h 12m 49s.xml">
+      <configuration name="MerryGoRoundRidesTest.회전목마의_진행횟수가_0이상인지_Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MerryGoRoundRidesTest_회전목마의_진행횟수가_0이상인지_Test - 2019.07.21 at 23h 14m 54s.xml">
+      <configuration name="MerryGoRoundRidesTest.회전목마의_진행횟수가_0이상인지_Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MerryGoRoundRidesTest_회전목마의_진행횟수가_0이상인지_Test - 2019.07.21 at 23h 17m 51s.xml">
+      <configuration name="MerryGoRoundRidesTest.회전목마의_진행횟수가_0이상인지_Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MerryGoRoundRidesTest_회전목마의_진행횟수가_0이상인지_Test - 2019.07.21 at 23h 19m 19s.xml">
+      <configuration name="MerryGoRoundRidesTest.회전목마의_진행횟수가_0이상인지_Test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -470,7 +496,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.14946619" />
       <window_info anchor="bottom" id="Message" order="8" />
-      <window_info anchor="bottom" id="Run" order="9" visible="true" weight="0.20818505" />
+      <window_info anchor="bottom" id="Run" order="9" visible="true" weight="0.2935943" />
       <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
@@ -596,13 +622,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ac/kr/ajou/domain/MerryGoRoundInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ac/kr/ajou/entrance/CreatePeople.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
@@ -610,13 +629,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ac/kr/ajou/rides/MerryGoRoundRides.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="21" column="55" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="55" />
         </state>
       </provider>
     </entry>
@@ -634,17 +646,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ac/kr/ajou/rides/ZyroDropRides.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ac/kr/ajou/domain/MerryGoRoundInfo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ac/kr/ajou/rides/MerryGoRoundRides.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ac/kr/ajou/rides/MerryGoRoundRidesTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        <state relative-caret-position="82">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ac/kr/ajou/rides/ZyroDropRides.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-76">
+          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ac/kr/ajou/rides/ZyroDropRidesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="42" lean-forward="true" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -653,18 +689,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ac/kr/ajou/rides/PirateShipRidesTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ac/kr/ajou/rides/ZyroDropRidesTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="4" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        <state relative-caret-position="209">
+          <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
