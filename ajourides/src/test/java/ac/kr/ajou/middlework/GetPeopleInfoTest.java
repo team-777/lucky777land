@@ -45,4 +45,5 @@ public class GetPeopleInfoTest {
 
         getPeopleInfo.PeopleInfo(peopleList, 20);
     }
+
 }

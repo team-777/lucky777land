@@ -16,7 +16,7 @@ public class PeopleIntoGroupsTest {
     private PeopleIntoGroups peopleIntoGroups;
 
     @Test
-    public void GroupIntoNull가_반환하는_리스트_테스트(){
+    public void GroupIntoNull가_반환하는_리스트_테스트(){//201520969 이재형
         PeopleIntoGroups peopleIntoGroups = new PeopleIntoGroups();
         List<PersonInfo> peopleList = new ArrayList<>();
         List<PersonInfo> testList;
@@ -25,5 +25,4 @@ public class PeopleIntoGroupsTest {
         assertNull(testList.get(0));
     }
 
-    
 }
