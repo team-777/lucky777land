@@ -7,24 +7,48 @@ import ac.kr.ajou.rides.ZyroDropRides;
 
 public class CreatePeople{
 
-    private int random;
+    public int random;
 
-    public void todaysPeopleNum() {
+    public int todaysPeopleNum(int TodaysTotalVisit) {
+
+        random = 1 + (int)(Math.random()*100)%4;
+        TodaysTotalVisit = 110+ 110* random;
+        return TodaysTotalVisit;
+    }
+
+    public void chooseRides(int TodaysVisit_for_Rides){
+
+        PeopleForEachRides peopleForEachRides = getPeopleForEachRides(TodaysVisit_for_Rides);
+
+        seeEachPeopleNum(peopleForEachRides.getMerryGoRoundPeople(), " people wants to ride on Merry-Go-Round");
+        seeEachPeopleNum(peopleForEachRides.getPirateShipPeople(), " people wants to ride on Pirate Ship");
+        seeEachPeopleNum(peopleForEachRides.getZyroDropPeople(), " people wants to ride on Zyro-Drop");
+
+        startRides(peopleForEachRides);
 
     }
 
-    private void chooseRides(int TodaysVisit_for_Rides){
-
-
-
-    }
 
     private PeopleForEachRides getPeopleForEachRides(int TodaysVisit_for_Rides) {
+        PeopleForEachRides peopleForEachRides = new PeopleForEachRides();
+        peopleForEachRides.setMerryGoRoundPeople(20 + (((int)(Math.random()*100)%random)*20));
+        peopleForEachRides.setZyroDropPeople(50 + (((int)(Math.random()*100)%random)*50));
+        peopleForEachRides.setPirateShipPeople(
+                TodaysVisit_for_Rides
+                        - peopleForEachRides.getMerryGoRoundPeople()
+                        - peopleForEachRides.getZyroDropPeople());
+        return peopleForEachRides;
 
     }
 
     private void startRides(PeopleForEachRides peopleForEachRides) {
+        MerryGoRoundRides merryGoRoundRides  = new MerryGoRoundRides();
+        PirateShipRides pirateShipRides = new PirateShipRides();
+        ZyroDropRides zyroDropRides = new ZyroDropRides();
 
+        merryGoRoundRides.goOnRides(peopleForEachRides.getMerryGoRoundPeople());
+        pirateShipRides.goOnRides(peopleForEachRides.getPirateShipPeople());
+        zyroDropRides.goOnRides(peopleForEachRides.getZyroDropPeople());
 
     }
 
