@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c95f332b-3c99-4533-b045-46e52fc9e6e5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/ac/kr/ajou/middlework/PeopleIntoGroupsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ac/kr/ajou/middlework/GetPeopleInfoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ac/kr/ajou/middlework/GetPeopleInfoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ac/kr/ajou/middlework/PeopleIntoGroupsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ac/kr/ajou/middlework/PeopleIntoGroupsTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -41,11 +38,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ac/kr/ajou/middlework/GetPeopleInfoTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-239">
-              <caret line="22" column="67" lean-forward="true" selection-start-line="22" selection-start-column="67" selection-end-line="22" selection-end-column="67" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="152">
+              <caret line="11" selection-start-line="11" selection-end-line="12" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -77,8 +71,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/ac/kr/ajou/middlework/PeopleIntoGroupsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+            <state relative-caret-position="133">
+              <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -291,7 +288,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.GetPeopleInfoTest.setparamTest">
+  <component name="RunManager" selected="JUnit.PeopleIntoGroupsTest.GroupIntoNull가_반환하는_리스트_테스트">
     <configuration name="MainApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ac.kr.ajou.MainApplication" />
       <module name="ajourides" />
@@ -352,8 +349,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PeopleIntoGroupsTest.GroupIntoNull가_반환하는_리스트_테스트" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ajourides" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ac.kr.ajou.middlework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ac.kr.ajou.middlework" />
+      <option name="MAIN_CLASS_NAME" value="ac.kr.ajou.middlework.PeopleIntoGroupsTest" />
+      <option name="METHOD_NAME" value="GroupIntoNull가_반환하는_리스트_테스트" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PeopleIntoGroupsTest.GroupIntoNull가_반환하는_리스트_테스트" />
         <item itemvalue="JUnit.GetPeopleInfoTest.setparamTest" />
         <item itemvalue="JUnit.GetPeopleInfoTest.trycatchthetimeTest" />
         <item itemvalue="Application.MainApplication" />
@@ -375,18 +389,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="GetPeopleInfoTest_setparamTest - 2019.07.21 at 22h 49m 28s.xml">
-      <configuration name="GetPeopleInfoTest.setparamTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GetPeopleInfoTest_setparamTest - 2019.07.21 at 22h 52m 19s.xml">
-      <configuration name="GetPeopleInfoTest.setparamTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GetPeopleInfoTest_setparamTest - 2019.07.21 at 22h 52m 54s.xml">
-      <configuration name="GetPeopleInfoTest.setparamTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GetPeopleInfoTest_setparamTest - 2019.07.21 at 22h 53m 43s.xml">
-      <configuration name="GetPeopleInfoTest.setparamTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="GetPeopleInfoTest_setparamTest - 2019.07.21 at 23h 01m 02s.xml">
       <configuration name="GetPeopleInfoTest.setparamTest" configurationId="JUnit" />
     </history-entry>
@@ -405,6 +407,18 @@
     <history-entry file="GetPeopleInfoTest_setparamTest - 2019.07.21 at 23h 09m 03s.xml">
       <configuration name="GetPeopleInfoTest.setparamTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="PeopleIntoGroupsTest_GroupIntoNull가_반환하는_리스트_테스트 - 2019.07.21 at 23h 18m 57s.xml">
+      <configuration name="PeopleIntoGroupsTest.GroupIntoNull가_반환하는_리스트_테스트" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PeopleIntoGroupsTest_GroupIntoNull가_반환하는_리스트_테스트 - 2019.07.21 at 23h 21m 15s.xml">
+      <configuration name="PeopleIntoGroupsTest.GroupIntoNull가_반환하는_리스트_테스트" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PeopleIntoGroupsTest_GroupIntoNull가_반환하는_리스트_테스트 - 2019.07.21 at 23h 21m 40s.xml">
+      <configuration name="PeopleIntoGroupsTest.GroupIntoNull가_반환하는_리스트_테스트" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PeopleIntoGroupsTest_GroupIntoNull가_반환하는_리스트_테스트 - 2019.07.21 at 23h 22m 45s.xml">
+      <configuration name="PeopleIntoGroupsTest.GroupIntoNull가_반환하는_리스트_테스트" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -415,7 +429,7 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.2147651" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.2147651" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" order="0" weight="0.29537368" />
       <window_info anchor="bottom" id="Inspection Results" order="1" weight="0.053380784" />
@@ -424,7 +438,7 @@
       <window_info anchor="bottom" id="Version Control" order="4" weight="0.14946619" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" weight="0.3291815" />
-      <window_info anchor="bottom" id="Run" order="7" visible="true" weight="0.5673759" />
+      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.5673759" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
@@ -583,6 +597,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ac/kr/ajou/middlework/GetPeopleInfoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="11" selection-start-line="11" selection-end-line="12" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ac/kr/ajou/middlework/PeopleIntoGroups.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="103">
@@ -593,20 +614,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ac/kr/ajou/middlework/GetPeopleInfoTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/ac/kr/ajou/middlework/PeopleIntoGroupsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-239">
-          <caret line="22" column="67" lean-forward="true" selection-start-line="22" selection-start-column="67" selection-end-line="22" selection-end-column="67" />
+        <state relative-caret-position="133">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ac/kr/ajou/middlework/PeopleIntoGroupsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
         </state>
       </provider>
     </entry>
