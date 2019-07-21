@@ -7,6 +7,7 @@
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/ac/kr/ajou/MainApplicationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ac/kr/ajou/MainApplicationTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/ac/kr/ajou/MainApplicationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ac/kr/ajou/MainApplicationTest.class" afterDir="false" />
+
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -19,7 +20,11 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ajourides" />
+  </component>
   <component name="FileEditorManager">
+
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -67,6 +72,19 @@
         <option value="Class" />
       </list>
     </option>
+
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>C:\Users\전혜진\team-project\lucky777land2\ajourides\src\test</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -75,7 +93,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/lucky777land.iml" />
-        <option value="$PROJECT_DIR$/src/main/java/ac/kr/ajou/domain/MerryGoRoundInfo.java" />
         <option value="$PROJECT_DIR$/src/main/java/ac/kr/ajou/domain/PeopleForEachRides.java" />
         <option value="$PROJECT_DIR$/src/main/java/ac/kr/ajou/domain/PersonInfo.java" />
         <option value="$PROJECT_DIR$/src/main/java/ac/kr/ajou/domain/PirateShipInfo.java" />
@@ -83,12 +100,13 @@
         <option value="$PROJECT_DIR$/src/main/java/ac/kr/ajou/MainApplication.java" />
         <option value="$PROJECT_DIR$/src/main/java/ac/kr/ajou/middlework/GetPeopleInfo.java" />
         <option value="$PROJECT_DIR$/src/main/java/ac/kr/ajou/middlework/PeopleIntoGroups.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ac/kr/ajou/rides/MerryGoRoundRides.java" />
         <option value="$PROJECT_DIR$/src/main/java/ac/kr/ajou/rides/PirateShipRides.java" />
         <option value="$PROJECT_DIR$/src/main/java/ac/kr/ajou/rides/ZyroDropRides.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/ac/kr/ajou/entrance/CreatePeople.java" />
+
         <option value="$PROJECT_DIR$/src/test/java/ac/kr/ajou/MainApplicationTest.java" />
+
       </list>
     </option>
   </component>
@@ -112,6 +130,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -200,19 +219,21 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+
               <item name="ajou" type="462c0819:PsiDirectoryNode" />
+
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../JavaSpringTesting" />
@@ -220,6 +241,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="Errors" />
+
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -238,6 +260,7 @@
       </list>
     </option>
   </component>
+
   <component name="RunManager" selected="JUnit.MainApplicationTest.getPeopleForEachRidesTest_zyroDropPeople_is_greaterThan_50">
     <configuration name="MainApplicationTest.chooseRidesTest_verify_seeEachPeopleNum_operates_triple" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ajourides" />
@@ -250,11 +273,13 @@
       <option name="PACKAGE_NAME" value="ac.kr.ajou" />
       <option name="MAIN_CLASS_NAME" value="ac.kr.ajou.MainApplicationTest" />
       <option name="METHOD_NAME" value="chooseRidesTest_verify_seeEachPeopleNum_operates_triple" />
+
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+
     <configuration name="MainApplicationTest.getPeopleForEachRidesTest_zyroDropPeople_is_greaterThan_50" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ajourides" />
       <extension name="coverage">
@@ -266,11 +291,13 @@
       <option name="PACKAGE_NAME" value="ac.kr.ajou" />
       <option name="MAIN_CLASS_NAME" value="ac.kr.ajou.MainApplicationTest" />
       <option name="METHOD_NAME" value="getPeopleForEachRidesTest_zyroDropPeople_is_greaterThan_50" />
+
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+
     <configuration name="MainApplicationTest.seeEachPeopleNumTest_Once" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ajourides" />
       <extension name="coverage">
@@ -283,10 +310,12 @@
       <option name="MAIN_CLASS_NAME" value="ac.kr.ajou.MainApplicationTest" />
       <option name="METHOD_NAME" value="seeEachPeopleNumTest_Once" />
       <option name="TEST_OBJECT" value="method" />
+
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+
     <configuration name="MainApplicationTest.todaysPeopleNumTest_randomValue_must_not_0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ajourides" />
       <extension name="coverage">
@@ -298,22 +327,27 @@
       <option name="PACKAGE_NAME" value="ac.kr.ajou" />
       <option name="MAIN_CLASS_NAME" value="ac.kr.ajou.MainApplicationTest" />
       <option name="METHOD_NAME" value="todaysPeopleNumTest_randomValue_must_not_0" />
+
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+
     <configuration name="MainApplicationTest.todaysPeopleNumTest_verify_the_process_succeess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+
       <module name="ajourides" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ac.kr.ajou.*" />
+          <option name="PATTERN" value="ac.kr.ajou.rides.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+
       <option name="PACKAGE_NAME" value="ac.kr.ajou" />
       <option name="MAIN_CLASS_NAME" value="ac.kr.ajou.MainApplicationTest" />
       <option name="METHOD_NAME" value="todaysPeopleNumTest_verify_the_process_succeess" />
+
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -321,11 +355,13 @@
     </configuration>
     <recent_temporary>
       <list>
+
         <item itemvalue="JUnit.MainApplicationTest.getPeopleForEachRidesTest_zyroDropPeople_is_greaterThan_50" />
         <item itemvalue="JUnit.MainApplicationTest.chooseRidesTest_verify_seeEachPeopleNum_operates_triple" />
         <item itemvalue="JUnit.MainApplicationTest.seeEachPeopleNumTest_Once" />
         <item itemvalue="JUnit.MainApplicationTest.todaysPeopleNumTest_verify_the_process_succeess" />
         <item itemvalue="JUnit.MainApplicationTest.todaysPeopleNumTest_randomValue_must_not_0" />
+
       </list>
     </recent_temporary>
   </component>
@@ -344,6 +380,7 @@
     <servers />
   </component>
   <component name="TestHistory">
+
     <history-entry file="MainApplicationTest_getPeopleForEachRidesTest_zyroDropPeople_is_greaterThan_50 - 2019.07.21 at 23h 20m 59s.xml">
       <configuration name="MainApplicationTest.getPeopleForEachRidesTest_zyroDropPeople_is_greaterThan_50" configurationId="JUnit" />
     </history-entry>
@@ -404,13 +441,14 @@
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" />
       <window_info anchor="right" id="Database" />
+
       <window_info anchor="right" id="Theme Preview" order="0" />
-      <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="right" id="Palette&#9;" order="2" />
-      <window_info anchor="right" id="Maven" order="3" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
     </layout>
   </component>
@@ -482,27 +520,10 @@
     <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ac/kr/ajou/domain/PersonInfo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ac/kr/ajou/middlework/GetPeopleInfo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ac/kr/ajou/domain/PirateShipInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ac/kr/ajou/middlework/PeopleIntoGroups.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="1710">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -516,22 +537,67 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ac/kr/ajou/domain/MerryGoRoundInfo.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/ac/kr/ajou/dasf.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/ac/kr/ajou/rides/PirateShipRides.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/ac/kr/ajou/rides/ZyroDropRides.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ac/kr/ajou/middlework/PeopleIntoGroups.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
+        <state relative-caret-position="285">
+          <caret line="15" column="46" lean-forward="true" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ac/kr/ajou/domain/PirateShipInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+
+    <entry file="file://$PROJECT_DIR$/src/main/java/ac/kr/ajou/middlework/PeopleIntoGroups.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ac/kr/ajou/domain/ZyroDropInfo.java">
+
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
           <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="56" column="21" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ac/kr/ajou/MainApplication.java">
       <provider selected="true" editor-type-id="text-editor">
+
         <state relative-caret-position="283">
           <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+  
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ac/kr/ajou/rides/MerryGoRoundRides.java">
       <provider selected="true" editor-type-id="text-editor">
+
         <state relative-caret-position="342">
           <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
@@ -541,28 +607,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
+
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ac/kr/ajou/middlework/GetPeopleInfo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ac/kr/ajou/domain/PeopleForEachRides.java">
       <provider selected="true" editor-type-id="text-editor">
+
         <state relative-caret-position="798">
           <caret line="90" selection-start-line="90" selection-end-line="90" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ac/kr/ajou/rides/PirateShipRides.java">
       <provider selected="true" editor-type-id="text-editor">
+
         <state relative-caret-position="323">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
+
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
+
         <state relative-caret-position="643">
           <caret line="55" column="19" selection-start-line="55" selection-start-column="19" selection-end-line="55" selection-end-column="19" />
         </state>
@@ -572,11 +644,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ac/kr/ajou/entrance/CreatePeople.java">
       <provider selected="true" editor-type-id="text-editor">
+
         <state relative-caret-position="-69">
           <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
           <folding>
@@ -589,6 +663,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-330">
           <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+
         </state>
       </provider>
     </entry>
@@ -644,11 +719,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>lucky777land</last-edited>
+          <last-edited>ajourides</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

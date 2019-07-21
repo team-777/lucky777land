@@ -2,6 +2,8 @@ package ac.kr.ajou.rides;
 
 import ac.kr.ajou.middlework.PeopleIntoGroups;
 
+
+
 public class MerryGoRoundRides {
 
     public void goOnRides(int merrygoroundpeople){

@@ -1,5 +1,6 @@
 package ac.kr.ajou.domain;
 
+
 import lombok.Data;
 
 @Data
