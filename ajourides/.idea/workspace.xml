@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c95f332b-3c99-4533-b045-46e52fc9e6e5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test/java/ac/kr/ajou/rides/PirateShipRidesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ac/kr/ajou/rides/PirateShipRidesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ac/kr/ajou/rides/ZyroDropRidesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ac/kr/ajou/rides/ZyroDropRidesTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -53,11 +53,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ac/kr/ajou/rides/PirateShipRidesTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+            <state relative-caret-position="209">
+              <caret line="18" column="41" lean-forward="true" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -65,11 +65,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/ac/kr/ajou/rides/ZyroDropRidesTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="42" lean-forward="true" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+            <state relative-caret-position="95">
+              <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -157,8 +157,8 @@
         <option value="$PROJECT_DIR$/src/main/java/ac/kr/ajou/domain/MerryGoRoundInfo.java" />
         <option value="$PROJECT_DIR$/src/main/java/ac/kr/ajou/rides/MerryGoRoundRides.java" />
         <option value="$PROJECT_DIR$/src/test/java/ac/kr/ajou/rides/MerryGoRoundRidesTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ac/kr/ajou/rides/ZyroDropRidesTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/ac/kr/ajou/rides/PirateShipRidesTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ac/kr/ajou/rides/ZyroDropRidesTest.java" />
       </list>
     </option>
   </component>
@@ -648,20 +648,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ac/kr/ajou/rides/ZyroDropRidesTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/ac/kr/ajou/rides/PirateShipRidesTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="42" lean-forward="true" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+        <state relative-caret-position="209">
+          <caret line="18" column="41" lean-forward="true" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ac/kr/ajou/rides/PirateShipRidesTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/ac/kr/ajou/rides/ZyroDropRidesTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+        <state relative-caret-position="95">
+          <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
