@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c95f332b-3c99-4533-b045-46e52fc9e6e5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/lucky777land.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ac/kr/ajou/middlework/GetPeopleInfoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ac/kr/ajou/middlework/PeopleIntoGroupsTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ac/kr/ajou/middlework/GetPeopleInfoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ac/kr/ajou/middlework/GetPeopleInfoTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -39,11 +38,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ac/kr/ajou/middlework/GetPeopleInfoTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="22" column="52" lean-forward="true" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
+            <state relative-caret-position="-239">
+              <caret line="22" column="67" lean-forward="true" selection-start-line="22" selection-start-column="67" selection-end-line="22" selection-end-column="67" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -54,8 +53,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ac/kr/ajou/middlework/GetPeopleInfo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="8">
-              <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+            <state relative-caret-position="313">
+              <caret line="34" column="12" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -66,8 +65,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ac/kr/ajou/middlework/PeopleIntoGroups.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="21" column="39" lean-forward="true" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+            <state relative-caret-position="103">
+              <caret line="11" column="35" lean-forward="true" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -75,20 +74,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ac/kr/ajou/domain/MerryGoRoundInfo.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ac/kr/ajou/middlework/PeopleIntoGroupsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="37" lean-forward="true" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+            <state relative-caret-position="95">
+              <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ac/kr/ajou/domain/PeopleForEachRides.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ac/kr/ajou/domain/MerryGoRoundInfo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+            <state relative-caret-position="190">
+              <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -125,6 +124,13 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
@@ -145,6 +151,7 @@
         <option value="$PROJECT_DIR$/src/main/java/ac/kr/ajou/rides/PirateShipRides.java" />
         <option value="$PROJECT_DIR$/src/main/java/ac/kr/ajou/rides/ZyroDropRides.java" />
         <option value="$PROJECT_DIR$/src/test/java/ac/kr/ajou/middlework/GetPeopleInfoTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ac/kr/ajou/middlework/PeopleIntoGroupsTest.java" />
       </list>
     </option>
   </component>
@@ -329,9 +336,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GetPeopleInfoTest.trycatchthetimeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ajourides" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ac.kr.ajou.middlework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ac.kr.ajou.middlework" />
+      <option name="MAIN_CLASS_NAME" value="ac.kr.ajou.middlework.GetPeopleInfoTest" />
+      <option name="METHOD_NAME" value="trycatchthetimeTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.GetPeopleInfoTest.setparamTest" />
+        <item itemvalue="JUnit.GetPeopleInfoTest.trycatchthetimeTest" />
         <item itemvalue="Application.MainApplication" />
         <item itemvalue="JUnit.GetPeopleInfoTest" />
       </list>
@@ -351,25 +375,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="GetPeopleInfoTest - 2019.07.21 at 22h 41m 46s.xml">
-      <configuration name="GetPeopleInfoTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GetPeopleInfoTest_setparamTest - 2019.07.21 at 22h 42m 40s.xml">
-      <configuration name="GetPeopleInfoTest.setparamTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GetPeopleInfoTest_setparamTest - 2019.07.21 at 22h 43m 28s.xml">
-      <configuration name="GetPeopleInfoTest.setparamTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GetPeopleInfoTest_setparamTest - 2019.07.21 at 22h 46m 06s.xml">
-      <configuration name="GetPeopleInfoTest.setparamTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GetPeopleInfoTest_setparamTest - 2019.07.21 at 22h 47m 44s.xml">
-      <configuration name="GetPeopleInfoTest.setparamTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GetPeopleInfoTest_setparamTest - 2019.07.21 at 22h 48m 33s.xml">
-      <configuration name="GetPeopleInfoTest.setparamTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="GetPeopleInfoTest_setparamTest - 2019.07.21 at 22h 49m 28s.xml">
+      <configuration name="GetPeopleInfoTest.setparamTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GetPeopleInfoTest_setparamTest - 2019.07.21 at 22h 52m 19s.xml">
+      <configuration name="GetPeopleInfoTest.setparamTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GetPeopleInfoTest_setparamTest - 2019.07.21 at 22h 52m 54s.xml">
+      <configuration name="GetPeopleInfoTest.setparamTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GetPeopleInfoTest_setparamTest - 2019.07.21 at 22h 53m 43s.xml">
+      <configuration name="GetPeopleInfoTest.setparamTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GetPeopleInfoTest_setparamTest - 2019.07.21 at 23h 01m 02s.xml">
+      <configuration name="GetPeopleInfoTest.setparamTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GetPeopleInfoTest_setparamTest - 2019.07.21 at 23h 02m 06s.xml">
+      <configuration name="GetPeopleInfoTest.setparamTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GetPeopleInfoTest_trycatchthetimeTest - 2019.07.21 at 23h 04m 18s.xml">
+      <configuration name="GetPeopleInfoTest.trycatchthetimeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GetPeopleInfoTest_trycatchthetimeTest - 2019.07.21 at 23h 04m 33s.xml">
+      <configuration name="GetPeopleInfoTest.trycatchthetimeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GetPeopleInfoTest_trycatchthetimeTest - 2019.07.21 at 23h 04m 46s.xml">
+      <configuration name="GetPeopleInfoTest.trycatchthetimeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GetPeopleInfoTest_setparamTest - 2019.07.21 at 23h 09m 03s.xml">
       <configuration name="GetPeopleInfoTest.setparamTest" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -502,16 +535,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ac/kr/ajou/middlework/PeopleIntoGroups.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="21" column="39" lean-forward="true" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ac/kr/ajou/domain/PersonInfo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -519,30 +542,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ac/kr/ajou/middlework/GetPeopleInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8">
-          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ac/kr/ajou/MainApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-76">
-          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ac/kr/ajou/domain/MerryGoRoundInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="37" lean-forward="true" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
         </state>
       </provider>
     </entry>
@@ -560,13 +559,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ac/kr/ajou/middlework/GetPeopleInfoTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ac/kr/ajou/middlework/GetPeopleInfo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="22" column="52" lean-forward="true" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
+        <state relative-caret-position="313">
+          <caret line="34" column="12" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ac/kr/ajou/domain/MerryGoRoundInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ac/kr/ajou/MainApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-76">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ac/kr/ajou/middlework/PeopleIntoGroups.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="11" column="35" lean-forward="true" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ac/kr/ajou/middlework/GetPeopleInfoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-239">
+          <caret line="22" column="67" lean-forward="true" selection-start-line="22" selection-start-column="67" selection-end-line="22" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ac/kr/ajou/middlework/PeopleIntoGroupsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
         </state>
       </provider>
     </entry>
