@@ -29,7 +29,7 @@ public class CreatePeople{
     }
 
 
-    private PeopleForEachRides getPeopleForEachRides(int TodaysVisit_for_Rides) {
+    public PeopleForEachRides getPeopleForEachRides(int TodaysVisit_for_Rides) {
         PeopleForEachRides peopleForEachRides = new PeopleForEachRides();
         peopleForEachRides.setMerryGoRoundPeople(20 + (((int)(Math.random()*100)%random)*20));
         peopleForEachRides.setZyroDropPeople(50 + (((int)(Math.random()*100)%random)*50));
@@ -41,7 +41,7 @@ public class CreatePeople{
 
     }
 
-    private void startRides(PeopleForEachRides peopleForEachRides) {
+    public void startRides(PeopleForEachRides peopleForEachRides) {
         MerryGoRoundRides merryGoRoundRides  = new MerryGoRoundRides();
         PirateShipRides pirateShipRides = new PirateShipRides();
         ZyroDropRides zyroDropRides = new ZyroDropRides();
@@ -52,7 +52,7 @@ public class CreatePeople{
 
     }
 
-    private void seeEachPeopleNum(int merryGoRoundPeople, String s) {
+    public void seeEachPeopleNum(int merryGoRoundPeople, String s) {
         System.out.println(merryGoRoundPeople + s);
     }
 
